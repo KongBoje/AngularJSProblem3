@@ -1,0 +1,5 @@
+rest\CarResource.class
+facade\CarFacade.class
+schemagenerator\SchemaGenerator.class
+entity\Car.class
+rest\ApplicationConfig.class
